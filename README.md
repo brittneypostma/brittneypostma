@@ -4,3 +4,5 @@ Hi, I'm Brittney, owner, designer, and developer at [bDesigned](https://www.bdes
 
 
 [![Brittney's github stats](https://github-readme-stats.vercel.app/api?username=brittneypostma)](https://github.com/brittneypostma/github-readme-stats)
+
+![Brittney's github stats](https://github-readme-stats.vercel.app/api?username=brittneypostma&show_icons=true)
