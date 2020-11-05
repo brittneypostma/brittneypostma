@@ -17,6 +17,7 @@
 
 <br/><br/>
 
+- [Buy Me a Beer🍻 - buymeacoffee.com/brittneypostma](https://www.buymeacoffee.com/brittneypostma)
 - [Patreon - patreon.com/brittneypostma](patreon.com/brittneypostma)
 - [Instructor - ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)
 - [Designer/Developer - bdesigned.dev](bdesigned.dev)
