@@ -21,7 +21,7 @@
 - [Patreon - patreon.com/brittneypostma](patreon.com/brittneypostma)
 - [Instructor - ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)
 - [Designer/Developer - bdesigned.dev](bdesigned.dev)
-- [Digital Garden - console-logs](theconsolelogs.com)
+- [The Console Logs](theconsolelogs.com)
 - [Blogger - dev.to/bdesigned](dev.to/bdesigned)
 
 Hi there 👋, I'm Brittney, designer and developer at [bDesigned](https://www.bdesigned.dev/). I am a mentor for the [Zero to Mastery Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1), home to more than 200,000 students learning to code. I love developing beautiful, fluid, and responsive websites using new technologies on the [Jamstack](https://jamstack.org/). I thrive on accessible, semantic HTML that also has personality. I want everyone to be included on my websites, but also have some fun! You can find posts I've written on [Dev.to](https://dev.to/bdesigned) and my dev notes site [Console Logs](https://console-logs.netlify.app/). You can find out more about me at [bDesigned](https://www.bdesigned.dev/) or any social links above.
