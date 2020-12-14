@@ -7,16 +7,16 @@
 [![Brittney Postma | Twitter](./img/twitter.png)](https://twitter.com/brittneypostma)
 [![Brittney Postma | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/brittneypostma/)
 [![Brittney Postma | YouTube](./img/youtube.png)](https://www.youtube.com/channel/UCyvOaBoW3Jti69U4Gw1ci9Q)
-[![Brittney Postma | Dev.to](./img/dev.png)](dev.to/bdesigned)
+[![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/bdesigned)
 
 
 ✨🌈<br/>
 🙌 [Buy Me a Beer🍻 - buymeacoffee.com/brittneypostma](https://www.buymeacoffee.com/brittneypostma)<br/>
-💻 [Designer/Developer - bdesigned.dev](bdesigned.dev)<br/>
-📰 [Dev Notes - theconsolelogs.com](theconsolelogs.com)<br/>
-🖊 [Blogger - dev.to/bdesigned](dev.to/bdesigned)<br/>
+💻 [Designer/Developer - bdesigned.dev](https://bdesigned.dev)<br/>
+📰 [Dev Notes - theconsolelogs.com](https://theconsolelogs.com)<br/>
+🖊 [Blogger - dev.to/bdesigned](https://dev.to/bdesigned)<br/>
 🎈 [RedBubble Store](https://www.redbubble.com/people/bDesigned/shop?asc=u)
-🎉 [Patreon - patreon.com/brittneypostma](patreon.com/brittneypostma)<br/>
+🎉 [Patreon - patreon.com/brittneypostma](https://patreon.com/brittneypostma)<br/>
 👩‍🏫 [Instructor - ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)<br/>
 ✨🌈
 
