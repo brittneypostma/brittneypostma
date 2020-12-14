@@ -15,7 +15,7 @@
 💻 [Designer/Developer - bdesigned.dev](https://bdesigned.dev)<br/>
 📰 [Dev Notes - theconsolelogs.com](https://theconsolelogs.com)<br/>
 🖊 [Blogger - dev.to/bdesigned](https://dev.to/bdesigned)<br/>
-🎈 [RedBubble Store](https://www.redbubble.com/people/bDesigned/shop?asc=u)
+🎈 [RedBubble Store](https://www.redbubble.com/people/bDesigned/shop?asc=u)<br/>
 🎉 [Patreon - patreon.com/brittneypostma](https://patreon.com/brittneypostma)<br/>
 👩‍🏫 [Instructor - ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)<br/>
 ✨🌈
