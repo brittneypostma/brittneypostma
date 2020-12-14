@@ -1,5 +1,5 @@
 [![bDesigned by Brittney](https://console-logs.netlify.app/dev.png)](https://www.brittneypostma.com) 
-
+[Brittney Postma](https://brittneypostma.com)
 <hr/>
 
 
