@@ -1,4 +1,4 @@
-[![bDesigned by Brittney](https://console-logs.netlify.app/dev.png)](https://www.brittneypostma.com) 
+[![bDesigned by Brittney](https://console-logs.netlify.app/dev.png)](https://www.brittneypostma.com) <br/>
 [Brittney Postma](https://brittneypostma.com)
 <hr/>
 
