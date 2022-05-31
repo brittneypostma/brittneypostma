@@ -11,8 +11,9 @@
 <hr/>
 
 ✨🌈<br/>
-🐱[Author, Frontend Designer & Developer @ CodingCat.dev](https://codingcat.dev/)<br/>
-🎧[Co-host of the Purrfect.dev Podcast](https://purrfect.dev/)<br/>
+🐱 [Author, Frontend Designer & Developer @ CodingCat.dev](https://codingcat.dev/)<br/>
+🎧 [Co-host of the Purrfect.dev Podcast](https://purrfect.dev/)<br/>
+🎧 [Co-host of the Svelte Radio Podcast](https://www.svelteradio.com/)<br/>
 👩‍🏫 [Instructor - ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)<br/>
 💻 [Designer/Developer - bdesigned.dev](https://bdesigned.dev)<br/>
 📰 [Dev Notes - theconsolelogs.com](https://theconsolelogs.com)<br/>
