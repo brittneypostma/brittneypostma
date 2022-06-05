@@ -27,7 +27,7 @@ Hi there 👋, I'm [Brittney Postma](https://brittneypostma.com), Developer Expe
 <br/>
 <hr/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brittneypostma)](https://github.com/brittneypostma)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brittneypostma)](https://github.com/brittneypostma)<br/>
 ![Brittney's Github Stats](https://github-readme-stats.vercel.app/api?username=brittneypostma&count_private=true&show_icons=true)
 
 
