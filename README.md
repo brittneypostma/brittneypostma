@@ -8,13 +8,18 @@
 [![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/bdesigned)
 <br/>
 
+<hr/>
+
 
 Hi there 👋, I'm [Brittney Postma](https://brittneypostma.com), Developer Experience Engineer at [Netlify](https://www.netlify.com/). I create content on [CodingCat.dev](https://codingcat.dev) and co-host the [Purrfect.dev Podcast](https://purrfect.dev). I founded the [Svelte Sirens](https://SvelteSirens.dev), a Svelte Society for women, non-binary people, and allites to learn, build, and teach about Svelte. I also contribute to the [Svelte Society](https://sveltesociety.dev) 😍. I am a mentor for the [Zero to Mastery Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1), home to more than 400,000 students learning to code. I have a background in Graphic Design and I love developing beautiful, fluid, and responsive websites using new technologies on the [Jamstack](https://jamstack.org/) and am in love with [Svelte](https://svelte.dev). I thrive on accessible, semantic HTML that also has personality. I want everyone to be included on my websites, but also have some fun! I am very active on Discord, you can find me in [Learn Build Teach](https://learnbuildteach.com/community), [Jamstack](https://discord.gg/jamstack), [Party Corgi](https://discord.gg/partycorgi), and the [Svelte Discrod](https://svelte.dev/chat). You can find posts I've written on [Dev.to](https://dev.to/bdesigned) and my dev notes site [The Console Logs](https://theconsolelogs.com/).
 <br/>
-[![Brittney Postma - bDesigned](https://brittneypostma.com/bDesigned.png)](https://www.brittneypostma.com) <br/>
-[BrittneyPostma.com](https://brittneypostma.com)
 
-✨🌈<br/>
+<hr/>
+
+|Links| 
+|--|
+| [![Brittney Postma - bDesigned](https://brittneypostma.com/bDesigned.png)](https://www.brittneypostma.com)<br/>[BrittneyPostma.com](https://brittneypostma.com)
+✨🌈
 🐱 [Author, Frontend Designer & Developer @ CodingCat.dev](https://codingcat.dev/)<br/>
 🎧 [Co-host of the Purrfect.dev Podcast](https://purrfect.dev/)<br/>
 🎧 [Co-host of the Svelte Radio Podcast](https://www.svelteradio.com/)<br/>
@@ -24,12 +29,13 @@ Hi there 👋, I'm [Brittney Postma](https://brittneypostma.com), Developer Expe
 🎈 [RedBubble Store](https://www.redbubble.com/people/bDesigned/shop?asc=u)<br/>
 🎉 [Patreon - patreon.com/brittneypostma](https://patreon.com/brittneypostma)<br/>
 🙌 [Buy Me a Beer🍻 - buymeacoffee.com/brittneypostma](https://www.buymeacoffee.com/brittneypostma)<br/>
-✨🌈
-<br/>
+✨🌈|
+
+
 <hr/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brittneypostma)](https://github.com/brittneypostma)<br/>
-![Brittney's Github Stats](https://github-readme-stats.vercel.app/api?username=brittneypostma&count_private=true&show_icons=true)
 
-
+| Languages | GitHub Stats |
+|--|--|
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brittneypostma)](https://github.com/brittneypostma) | ![Brittney's Github Stats](https://github-readme-stats.vercel.app/api?username=brittneypostma&count_private=true&show_icons=true) |
 
