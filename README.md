@@ -1,5 +1,5 @@
 
-![bDesigned](https://pbs.twimg.com/profile_banners/36686876/1622754116/1500x500)
+![Brittney's face on a vector wave with Brittney spelled in a large decorative font on the side](https://pbs.twimg.com/profile_banners/36686876/1659795206/1500x500)
 
 
 [![Brittney Postma | Twitter](./img/twitter.png)](https://twitter.com/brittneypostma)
