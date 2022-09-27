@@ -21,8 +21,9 @@ Hi there 👋, I'm [Brittney Postma](https://brittneypostma.com), Developer Expe
 | [![Brittney Postma - bDesigned](https://brittneypostma.com/bDesigned.png)](https://www.brittneypostma.com)<br/>[BrittneyPostma.com](https://brittneypostma.com)
 ✨🌈
 🐱 [Author, Frontend Designer & Developer @ CodingCat.dev](https://codingcat.dev/)<br/>
-🎧 [Co-host of the Purrfect.dev Podcast](https://purrfect.dev/)<br/>
+🎧 [Co-host of the CodingCat.dev Podcast](https://purrfect.dev/)<br/>
 🎧 [Co-host of the Svelte Radio Podcast](https://www.svelteradio.com/)<br/>
+🎧 [Co-host of the Remotely Interesting Podcast](https://www.remotelyinteresting.dev/)<br/>
 👩‍🏫 [Instructor - ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)<br/>
 📰 [Dev Notes - theconsolelogs.com](https://theconsolelogs.com)<br/>
 🖊 [Blogger - dev.to/bdesigned](https://dev.to/bdesigned)<br/>
