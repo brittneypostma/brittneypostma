@@ -4,8 +4,8 @@
 
 [![Brittney Postma | Twitter](./img/twitter.png)](https://twitter.com/brittneypostma)
 [![Brittney Postma | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/brittney-postma-868928178/)
-[![Brittney Postma | YouTube](./img/youtube.png)](https://www.youtube.com/channel/UCyvOaBoW3Jti69U4Gw1ci9Q)
-[![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/bdesigned)
+[![Brittney Postma | YouTube](./img/youtube.png)](https://www.youtube.com/@CodingCatDev)
+[![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/brittneypostma)
 <br/>
 
 <hr/>
