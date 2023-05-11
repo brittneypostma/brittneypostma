@@ -18,7 +18,7 @@ Hi there 👋, I'm [Brittney Postma](https://brittneypostma.com) I am a passiona
 
 |Links| 
 |--|
-| [BrittneyPostma.com]](https://www.brittneypostma.com)<br/>
+|🌊[BrittneyPostma.com](https://www.brittneypostma.com)<br/>
 ✨🌈
 🐱 [Author, Frontend Designer & Developer @ CodingCat.dev](https://codingcat.dev/)<br/>
 🎧 [Co-host of the CodingCat.dev Podcast](https://purrfect.dev/)<br/>
