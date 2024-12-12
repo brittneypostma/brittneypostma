@@ -2,6 +2,8 @@
 [![Brittney Postma | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/brittney-postma-868928178/)
 [![Brittney Postma | YouTube](./img/youtube.png)](https://www.youtube.com/@CodingCatDev)
 [![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/brittneypostma)
+
+<br/>
 [BlueSky](https://bsky.app/profile/brittneypostma.bsky.social)
 <br/>
 
