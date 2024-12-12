@@ -4,7 +4,9 @@
 [![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/brittneypostma)
 
 <br/>
+
 [BlueSky](https://bsky.app/profile/brittneypostma.bsky.social)
+
 <br/>
 
 <hr/>
