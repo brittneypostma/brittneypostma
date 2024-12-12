@@ -1,10 +1,8 @@
-
-[![Brittney Postma | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/brittney-postma-868928178/)
+|Where to find me|
+|---|
+|[![Brittney Postma | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/brittney-postma-868928178/)
 [![Brittney Postma | YouTube](./img/youtube.png)](https://www.youtube.com/@CodingCatDev)
 [![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/brittneypostma)
-
-<br/>
-
 🌊[BrittneyPostma.com](https://www.brittneypostma.com)<br/>
 ✨🌈
 🎧 [Co-host of the Svelte Radio Podcast](https://www.svelteradio.com/)<br/>
@@ -14,7 +12,7 @@
 🎈 [RedBubble Store](https://www.redbubble.com/people/bDesigned/shop?asc=u)<br/>
 🎉 [Patreon - patreon.com/brittneypostma](https://patreon.com/brittneypostma)<br/>
 🙌 [Buy Me a Beer🍻 - buymeacoffee.com/brittneypostma](https://www.buymeacoffee.com/brittneypostma)<br/>
-✨🌈
+✨🌈|
 
 <hr/>
 
