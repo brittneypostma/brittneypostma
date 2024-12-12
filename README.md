@@ -1,11 +1,8 @@
 
-![Brittney's face on a vector wave with Brittney spelled in a large decorative font on the side](https://pbs.twimg.com/profile_banners/36686876/1659795206/1500x500)
-
-
-[![Brittney Postma | Twitter](./img/twitter.png)](https://twitter.com/brittneypostma)
 [![Brittney Postma | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/brittney-postma-868928178/)
 [![Brittney Postma | YouTube](./img/youtube.png)](https://www.youtube.com/@CodingCatDev)
 [![Brittney Postma | Dev.to](./img/dev.png)](https://dev.to/brittneypostma)
+[BlueSky](https://bsky.app/profile/brittneypostma.bsky.social)
 <br/>
 
 <hr/>
