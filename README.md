@@ -5,9 +5,16 @@
 
 <br/>
 
-[BlueSky](https://bsky.app/profile/brittneypostma.bsky.social)
-
-<br/>
+🌊[BrittneyPostma.com](https://www.brittneypostma.com)<br/>
+✨🌈
+🎧 [Co-host of the Svelte Radio Podcast](https://www.svelteradio.com/)<br/>
+👩‍🏫 [ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)<br/>
+🦋 [BlueSky](https://bsky.app/profile/brittneypostma.bsky.social)<br/>
+🖊 [Blogger - dev.to/bdesigned](https://dev.to/bdesigned)<br/>
+🎈 [RedBubble Store](https://www.redbubble.com/people/bDesigned/shop?asc=u)<br/>
+🎉 [Patreon - patreon.com/brittneypostma](https://patreon.com/brittneypostma)<br/>
+🙌 [Buy Me a Beer🍻 - buymeacoffee.com/brittneypostma](https://www.buymeacoffee.com/brittneypostma)<br/>
+✨🌈
 
 <hr/>
 
@@ -17,19 +24,7 @@ Hi there 👋, I'm [Brittney Postma](https://brittneypostma.com) I am a passiona
 
 <hr/>
 
-|Links| 
-|--|
-|🌊[BrittneyPostma.com](https://www.brittneypostma.com)<br/>
-✨🌈
-🐱 [Author, Frontend Designer & Developer @ CodingCat.dev](https://codingcat.dev/)<br/>
-🎧 [Co-host of the Svelte Radio Podcast](https://www.svelteradio.com/)<br/>
-👩‍🏫 [Instructor - ZTM Academy](https://academy.zerotomastery.io/?affcode=441520_gjue7n-1)<br/>
-📰 [Dev Notes - theconsolelogs.com](https://theconsolelogs.com)<br/>
-🖊 [Blogger - dev.to/bdesigned](https://dev.to/bdesigned)<br/>
-🎈 [RedBubble Store](https://www.redbubble.com/people/bDesigned/shop?asc=u)<br/>
-🎉 [Patreon - patreon.com/brittneypostma](https://patreon.com/brittneypostma)<br/>
-🙌 [Buy Me a Beer🍻 - buymeacoffee.com/brittneypostma](https://www.buymeacoffee.com/brittneypostma)<br/>
-✨🌈|
+
 
 
 <hr/>
